@@ -18,7 +18,6 @@ I'm a creative web developer passionate about building immersive 3D experiences 
 - React Three Fiber / Drei
 
 ## Let's Connect
-- GitHub: [@its-riki-dev](https://github.com/its-riki-dev)
 - Twitter: [@rikiKDev](https://www.x.com/rikiKDev)
 - LinkedIn: [@riki-kashyap](https://www.linkedin.com/in/riki-kashyap)
 
