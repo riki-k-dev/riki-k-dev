@@ -7,7 +7,7 @@ I'm a creative web developer passionate about building immersive 3D experiences 
 - [**Shader Globe**](https://github.com/its-riki-dev/shader-globe) – A 3D Earth visualizer built with Three.js + GLSL.
 
 ## Technologies I Work With
-- JavaScript
+- JavaScript / TypeScript
 - React
 - Three.js / WebGL / GLSL
 - React Three Fiber / Drei
