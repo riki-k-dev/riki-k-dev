@@ -9,7 +9,7 @@ I'm a creative web developer passionate about building immersive 3D experiences 
 
 ## Technologies I Work With
 - JavaScript / TypeScript
-- React
+- React / Next
 - Three.js / WebGL / GLSL
 - React Three Fiber / Drei
 
