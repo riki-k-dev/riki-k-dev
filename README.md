@@ -1,6 +1,6 @@
 # Hi, I'm Riki Kashyap
 
-I'm a creative web developer passionate about building immersive 3D experiences on the web. With a strong background in JavaScript, WebGL, Three.js, and React, I love pushing the boundaries of what's possible in the browser.
+I’m a design engineer who loves turning ideas into reality through code. Whether it’s building sleek UIs, architecting systems, or experimenting with new tech, I’m always up for it.
 
 ## Featured Projects
 - [**Artilo**](https://github.com/riki-k-dev/artilo) – An immersive, minimalistic 3D art gallery
@@ -10,8 +10,7 @@ I'm a creative web developer passionate about building immersive 3D experiences 
 ## Technologies I Work With
 - JavaScript / TypeScript
 - React / Next
-- Three.js / WebGL / GLSL
-- React Three Fiber / Drei
+- Three.js / GSAP / Motion
 
 ## Let's Connect
 - Twitter: [@rikiKDev](https://www.x.com/rikiKDev)
