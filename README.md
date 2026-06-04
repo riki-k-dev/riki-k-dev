@@ -1,11 +1,11 @@
 # Hi, I'm Riki Kashyap
 
-A design engineer and full-stack developer who loves turning ideas into reality through code. Whether it’s building sleek UIs, architecting systems, or experimenting with new tech, I’m always up for it.
+Hey! I’m a software engineer who loves turning ideas into reality through code. Whether it’s crafting sleek, user-centric UIs, architecting robust backend systems, or experimenting with cutting-edge tech, I love building products that matter.
 
 ## Featured Projects
+- [**Formix**](https://github.com/riki-k-dev/formix) – AI-powered headless forms. Generate schemas, APIs, and UIs in seconds.
 - [**trace.ly**](https://github.com/riki-k-dev/trace.ly) – E2E encrypted, real-time location sharing with self-destructing sessions and zero persistent data.
 - [**persona.ui**](https://github.com/riki-k-dev/persona.ui) – A minimalist avatar generator to effortlessly mix, match, and export over 19,800 unique SVG combinations.
-- [**Artilo**](https://github.com/riki-k-dev/artilo) – An immersive digital art space featuring custom shaders, fluid interactions, and buttery-smooth scrolling.
 
 ## Technologies I Work With
 - Next / TypeScript / TailwindCSS
