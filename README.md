@@ -1,6 +1,6 @@
 # Hi, I'm Riki Kashyap
 
-Hey! I’m a software engineer who loves turning ideas into reality through code. Whether it’s crafting sleek, user-centric UIs, architecting robust backend systems, or experimenting with cutting-edge tech, I love building products that matter.
+I’m a software engineer who loves turning ideas into reality through code. Whether it’s crafting sleek, user-centric UIs, architecting robust backend systems, or experimenting with cutting-edge tech, I love building products that matter.
 
 ## Featured Projects
 - [**Formix**](https://github.com/riki-k-dev/formix) – AI-powered headless forms. Generate schemas, APIs, and UIs in seconds.
